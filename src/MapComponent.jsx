@@ -5,7 +5,7 @@ import L from "leaflet";
 import "leaflet-draw/dist/leaflet.draw.css";
 import { EditControl } from "react-leaflet-draw";
 import "leaflet-geometryutil";
-import { analyzePolygon } from "./PolygonAnalysis";
+import { analyzePolygon } from "./polygonAnalysis";
 import ProviderSuggestions from "./components/ProviderSuggestions";
 
 import { Bar } from "react-chartjs-2";
